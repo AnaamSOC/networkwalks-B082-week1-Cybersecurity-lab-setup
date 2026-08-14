@@ -73,17 +73,11 @@ The network configuration allows the Kali Linux virtual machine to establish net
 After configuring the virtual machine, Kali Linux was started successfully.
 
 <img width="479" height="502" alt="IMG 4" src="https://github.com/user-attachments/assets/df963e6c-99a4-44f0-9e95-272fb3edcb01" />
+
 ## Network Verification
 
 The network configuration was verified from within Kali Linux.
 
-The IP configuration can be checked using:
-
-```bash
-ip addr
-```
-
-This command displays the available network interfaces and their assigned IP addresses.
 
 <img width="350" height="278" alt="KALI NETWORK CONFIG-IMG 3" src="https://github.com/user-attachments/assets/27b0d2e8-8dd4-4e17-b4b4-a9d175fd009a" />
 
