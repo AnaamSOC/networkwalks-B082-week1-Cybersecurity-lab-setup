@@ -58,13 +58,7 @@ The Kali Linux virtual machine was configured through Oracle VM VirtualBox befor
 
 The virtual machine settings were reviewed to ensure that the required resources were available for Kali Linux.
 
-**Screenshot: Virtual Machine Configuration**
-
-Place your VirtualBox configuration screenshot here:
-
-```markdown
-![Virtual Machine Configuration](images/virtual-machine-configuration.png)
-```
+<img width="957" height="502" alt="img-1-startup" src="https://github.com/user-attachments/assets/ef43e72c-746a-429a-99f7-b3df5bd73a0a" />
 
 ## Network Configuration
 
@@ -72,26 +66,13 @@ The network adapter was configured through the VirtualBox network settings.
 
 The network configuration allows the Kali Linux virtual machine to establish network connectivity while operating inside the virtualized environment.
 
-**Screenshot: VirtualBox Network Settings**
-
-Place your network settings screenshot here:
-
-```markdown
-![VirtualBox Network Settings](images/virtualbox-network-settings.png)
-```
+<img width="959" height="502" alt="Step 3-Network" src="https://github.com/user-attachments/assets/963256f7-d254-422b-8bea-cadf59899c30" />
 
 ## Kali Linux Environment
 
 After configuring the virtual machine, Kali Linux was started successfully.
 
-**Screenshot: Kali Linux Desktop**
-
-Place your Kali Linux desktop screenshot here:
-
-```markdown
-![Kali Linux Desktop](images/kali-linux-desktop.png)
-```
-
+<img width="479" height="502" alt="IMG 4" src="https://github.com/user-attachments/assets/df963e6c-99a4-44f0-9e95-272fb3edcb01" />
 ## Network Verification
 
 The network configuration was verified from within Kali Linux.
@@ -104,13 +85,7 @@ ip addr
 
 This command displays the available network interfaces and their assigned IP addresses.
 
-**Screenshot: IP Address Configuration**
-
-Place your terminal screenshot showing the IP configuration here:
-
-```markdown
-![IP Address Configuration](images/ip-address-configuration.png)
-```
+<img width="350" height="278" alt="KALI NETWORK CONFIG-IMG 3" src="https://github.com/user-attachments/assets/27b0d2e8-8dd4-4e17-b4b4-a9d175fd009a" />
 
 ## Connectivity Testing
 
@@ -123,14 +98,7 @@ ping 8.8.8.8
 ```
 
 A successful response indicates that the virtual machine is able to communicate over the network.
-
-**Screenshot: Connectivity Test**
-
-Place your connectivity test screenshot here:
-
-```markdown
-![Connectivity Test](images/connectivity-test.png)
-```
+<img width="959" height="503" alt="snapshot-6" src="https://github.com/user-attachments/assets/09aa13cd-a457-49a1-ae89-2e92f851a960" />
 
 ## Verification
 
